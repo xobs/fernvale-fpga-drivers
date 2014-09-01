@@ -1,6 +1,8 @@
-novena-fpga-drivers
-===================
+novena-fernvale-drivers
+=======================
 
-Novena FPGA drivers
+Novena FPGA drivers for Fernvale.
 
-User-space drivers for Novena FPGA operations. Compatible vith PVT only, do not use with DVT.
+User-space drivers for booting Fernvale using the Novena FPGA operations.
+
+Run setup.sh to load fernly bootloader into RAM.
